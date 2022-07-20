@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Margarette",
+      "last_name": "Athridge",
+      "email": "mathridge0@elegantthemes.com",
+      "contact": 47847908810,
+      "password": "W0QIefdVMh",
+      "picture": "http://dummyimage.com/113x100.png/cc0000/ffffff",
+      "tasks": [
+        {
+          "id": "9988asdf",
+          "title": "Learn Node.js",
+          "status": false,
+          "created": 1658247428597
+        },
+        {
+          "id": "9988sdfg",
+          "title": "Learn Java",
+          "status": false,
+          "created": 1658247434397
+        },
+        {
+          "id": "someId",
+          "title": "Have Breakfast",
+          "status": false,
+          "created": "123456"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Morgan",
+      "last_name": "Wicklen",
+      "email": "mwicklen1@miitbeian.gov.cn",
+      "contact": 51577270376,
+      "password": "PppQpuP",
+      "picture": "http://dummyimage.com/222x100.png/ff4444/ffffff",
+      "tasks": []
+    },
+    {
+      "id": 3,
+      "first_name": "Lee",
+      "last_name": "Gainsboro",
+      "email": "lgainsboro2@joomla.org",
+      "contact": 36693390035,
+      "password": "i4jDvzHjIJW",
+      "picture": "http://dummyimage.com/111x100.png/cc0000/ffffff",
+      "tasks": []
+    },
+    {
+      "id": 4,
+      "first_name": "Christophorus",
+      "last_name": "Manon",
+      "email": "cmanon3@cdc.gov",
+      "contact": 43215809234,
+      "password": "p2wRVpG4",
+      "picture": "http://dummyimage.com/166x100.png/ff4444/ffffff",
+      "tasks": []
+    },
+    {
+      "id": 5,
+      "first_name": "Fonz",
+      "last_name": "Chateau",
+      "email": "fchateau4@t-online.de",
+      "contact": 34030882413,
+      "password": "vJ3kPDsSf5",
+      "picture": "http://dummyimage.com/237x100.png/5fa2dd/ffffff",
+      "tasks": []
+    }
+  ],
+  "isAuth": false
+}
